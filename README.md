@@ -6,9 +6,11 @@ The purpose of the analysis was to take a look at the temperature statistics in 
 ## Results
 
 June Temperature Summary
+
 ![Screenshot (46)](https://user-images.githubusercontent.com/82130746/147859673-c283b529-84e4-45c2-a598-3c4f8f14b79b.png)
 
 December Temperature Summary
+
 ![Screenshot (47)](https://user-images.githubusercontent.com/82130746/147859757-a238451e-ac9f-461a-a598-03e01935c16c.png)
 
 ## Summary 
