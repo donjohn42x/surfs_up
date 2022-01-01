@@ -19,4 +19,4 @@ As we can see by the two charts,
 - There is a deference of 8 degrees between the minimum temperature in June, 64 degrees, and the minimum temperature in December , 56 degrees 
 
 ## Summary 
-In summary 
+In summary, there is not much change in the temperature year round. We can see between the mean, standard deviation, minimum, and maximum temperatures between June and December that the average temperature in both months are fairly warm and the tempurature does not fall very low in both months. With this information, we may be able to say that the tempurature seems to set a good environment for our shop, though it would be wise to take analysis on more aspects of the weather and the local environment to better estimate the likelihood of sustainability of the shop
